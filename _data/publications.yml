@@ -1,25 +1,29 @@
 sections:
-  - name: Books and edited volumes
-    papers:
-      - "Daniel, M., N. Dobrushina, D. Ganenkov. Eds. 2019. The Mehweb language: Essays on phonology, morphology and syntax / Berlin : Language Science Press."
-      - "Dobrushina, N.R., M. A. Danièlʹ. Eds. 2016. Dva veka v dvadcati slovah [Two centuries in twenty words] Eds.: M.: Izdatelʹskij dom NIU VŠÈ."
-
   - name: Journals with peer review
     papers:
-      - "Daniel M., Koshevoy A., Schurov I., Dobrushina N. Can recall data be trusted? Evaluating reliability of interview data on traditional multilingualism in highland Daghestan. Field Methods. 34(4), 288–302"
-      - "Daniel M., Chechuro I., Verhees S., Dobrushina N. Lingua Francas as Lexical Donors: Evidence from Daghestan. Language. 2021. Vol. 97. No. 3. P. 520-560."
-      - "Dobrushina N., Daniel M., Koryakov Y. Atlas of multilingualism in Daghestan: A case study in diachronic sociolinguistics. 2020. Languages of the Caucasus, 4(1)"
-      - "Daniel M., von Waldenfels R., Ter-Avanesova A., Kazakova P., Schurov I., Gerasimenko E., Ignatenko D. I., Makhlina E. N., Tsfasman M., Verhees S., Vinyar A., Zhigulskaya V., Ovsjannikova M., Say S., Dobrushina N. Dialect loss in the Russian North: modeling change across variables. Language Variation and Change. 2019. Vol. 31. No. 3. P. 353-376."
-      - "Danièlʹ M.A., Dobrushina N.R. 2013. Russkij jazyk v Dagestane: problemy jazykovoj interferencii. [Russian in Dagestan: issues in language interference] Kompʹjuternaja lingvistika i intellektualʹnye tehnologii: Po materialam ežegodnoj Meždunarodnoj konferencii «Dialog» (Bekasovo, 30 maja–3 ijunja 2012 g.). Moskva. S. 186-211"
-      - "von Waldenfels, Ruprecht & Michael Daniel, Nina Dobrushina. 2014. Why standard orthography? Building the Ustya River Basin Corpus, an online corpus of a Russian dialect. Kompʹjuternaja lingvistika i intellektualʹnye tehnologii: Po materialam ežegodnoj Meždunarodnoj konferencii «Dialog» Moskva."
+      - "Ter-Avanesova, Alexandra, and Michael Daniel. 2023. The Second Genitive in the history of Russian and across its dialects. Linguistic Variation, 28-74. (Equal contribution to writing, minor contribution to data)."
+      - "Shiryaev, Alexander, Michael Daniel, and George Moroz. 2022. Glottalized lateral in Rikvani Andi: an acoustic study. Phonetica 79(4), 353-395. (One of the two principal contributors)"
+      - "Daniel, Michael, Ilya Shurov, Alexei Koshevoy, and Nina Dobrushina. 2022. Can Recall Data Be Trusted? Evaluating Reliability of Interview Data on Traditional Multilingualism in Highland Daghestan. Field Methods 34(2), 288-302. (One of the three principal contributors)."
+      - "Koile, Ezequiel, Ilya Chechuro, Michael Daniel and George Moroz. 2022. Geography and language divergence: The case of Andic languages. PlosOne 17(5). (One of the three principal contributors)."
+      - "Daniel, Michael. 2022. Double causatives, lability and elusive agent in Mehweb. STUF - Sprachtypologie und Universalienforschung 75(1), 73-97."
+      - "Daniel, Michael, Ilya Chechuro, Samira Verhees, Nina Dobrushina. 2021. Lingua franca as lexical donors. Language 97(3), 520-560. (Principal contributor except data collection and processing)."
+      - "Daniel, Mikhail. 2021. Soglasovanie po kosvennosti v naxsko-dagestanskix jazykax: obzor èmpiričeskix dannyx [Agreement in obliqueness in East Caucasian: an empirical survey]. Rhema. Vol. 2, 102-130. [In Russian]"
+      - "Chechuro, Ilya, Michael Daniel and Samira Verhees. 2021. Small-scale multilingualism through the prism of lexical borrowing. International Journal of Bilingualism 25(4), 1019-1039. (One of the two principal contributors)."
+      - "Dobrushina, Nina, Michael Daniel, and Yuri Koryakov. 2020. Atlas of multilingualism in Daghestan: A case study in diachronic sociolinguistics. Languages of the Caucasus. Vol. 4,. P. 1-37. (Equal contribution)."
+      - "Daniel, Michael. 2020. Associative plural as indexical category. Language Sciences. Vol. 81. https://doi.org/10.1016/j.langsci.2019.101256"
+      - "Lander, Yuri, and Michael Daniel. 2019. West Caucasian relative pronouns as resumptives // Linguistics 57(6), 1239-1270. (Equal contribution to writing, no contribution to data)."
+      - "Daniel, Michael, Ruprecht von Waldenfels, Aleksandra Ter-Avanesova, Polina Kazakova, Ilya Schurov, Ekaterina Gerasimenko, Daria Ignatenko, Ekaterina Makhlina, Maria Tsfasman, Samira Verhees, Aleksei Vinyar, Vasilisa Zhigulskaya, Maria Ovsjannikova, Sergei Say, and Nina Dobrushina. 2019. Dialect loss in the Russian North: modeling change across variables. Language Variation and Change 31(3), 353-376. (One of the three principal contributors)."
+      - "Daniel, Michael. 2019. Bagvalal place names as adverbs. Sprachtypologie und Universalienforschung - STUF 72(3), 297-311."
+      - "Daniel, Mikhail. 2018. K utočneniju časterečnogo statusa priznakovyx leksem v arčinskom jazyke [Part-of-speech category of the property words in Archi]. Voprosy jazykoznanija. Vol.  4, 114-132. [In Russian]"
+      - "Daniel, Michael. 2015. Logophoric reference in Archi. Journal of Pragmatics 88, 202-219." 
+      - "Daniel, Mikhail, Aleksej Poljakov, Sergej Rubakov, Dmitri Levonian, Vladimir Plungian, Victoria Khurshudian. 2009. Eastern Armenian National Corpus. Armjanskij gumanitarnyj vestnik 2. [In Russian] (Equal contribution from all authors)."
+      - "Daniel, Michael. 2007. Representative sampling and linguistic typology. A phenomenological lament. Linguistic Typology 11(1), 69-78. DOI: https://doi.org/10.1515/LINGTY.2007.006"
+      - "Plungian, Vladimir, and Mikhail Daniel. 1996. Objazatelʹnostʹ i kontekstnaja vytesnimostʹ. K opisaniju grammatičeskoj periferii [Obligatoriness and contextual redundancy. Investigating the periphery of grammar]. Izvestija RAN, SLJa 55(1), 61-66. (Secondary contribution). [In Russian]"
 
 
   - name: Book chapters
     papers:
-      - "Dobrushina N., Daniel M., Koryakov Yu. 2021. Languages and sociolinguistics of the Caucasus. In Maria Polinsky (ed.) Oxford Handbook of Languages of the Caucasus. Oxford: Oxford University Press."
-      - "Dobrushina N., Daniel M. 2018. Field linguistics in Daghestan: A very personal account, in: Word hunters. Vol. 194. John Benjamins Publishing Company, 79-94."
-      - "Daniel, M., Dobrushina, N., Knyazev S. 2011. Highlander’s Russian: Case Study in Bilingualism and Language Interference in Central Daghestan. In: Arto Mustajoki, Ekaterina Protassova, Nikolai Vakhtin (eds). Instrumentarium of Linguistics: Sociolinguistic Approach to Non-Standard Russian. Slavica Helsingiensia, 40. Helsinki. 65-93"
-      - "Dobrushina N.R., Danièlʹ M.A. 2015. Èkspedicija v Arhangelʹskuju oblastʹ. Russkij jazyk v naučnom osveŝenii. 29 (1)."
-      - "Daniel, M., Dobrushina, N., Knyazev S. 2011. Highlander’s Russian: Case Study in Bilingualism and Language Interference in Central Daghestan. In: Arto Mustajoki, Ekaterina Protassova, Nikolai Vakhtin (eds). Instrumentarium of Linguistics: Sociolinguistic Approach to Non-Standard Russian. Slavica Helsingiensia, 40. Helsinki. 65-93"
-      - "Dobrushina N.R., M.A. Danièlʹ. 2008. Russkaja častica smotri v tipologičeskom osveŝenii. Dinamičeskie modeli: Slovo. Predloženie. Tekst. Sbornik statej v čestʹ E.V.Padučevoj. M.: Jazyki slavjanskoj kulʹtury. S. 293–308."
-      - "Dobrushina N.R., Danièlʹ M.A. 2010. Novye russkie. Voprosy russkogo jazykoznanija. Vyp. XIII. Fonetika i grammatika: nastojaŝee, prošedšee, buduŝee. M. Str. 141-158."
+      
+ - name: Edited volumes
+    papers:
+      
