@@ -1,30 +1,23 @@
 personal:
     name: Michael Daniel
+    born: 13 September, 1972
+    nationality: Russian Federation
     university: Collegium de Lyon
     position: research fellow
+    ORCID: 0000-0002-2091-5713
     email: misha.daniel@gmail.com
+    marital status: married with three children and one dog
 
-fields:
-  - linguistics
-  - typology
-  - morphology
-  - mood and modality
-  - minority languages
-  - Nakh-Dagestanian languages
-  - sociolinguistics
-  - small-scale multilingualism
-  - language contacts
-  - language variation
-  - language corpora
+fields of study:
+  - "linguistic typology, sociolinguistics, language documentation, and corpus linguistics; in particular:"
+  -
+  - East Caucasian (Nakh-Daghestanian) languages
+  - morphology and morphosyntax
+  - nominal categories
+  - language varation
+  - language contact
+  - corpus linguistics
 
 
-associations:
-  - Association for Linguistic Typology
-  - Societas Linguistica Europaea
 
 
-projects:
-  - Multilingualism of Dagestan (<a href="https://multidagestan.com" target="_blank">https://multidagestan.com</a>)
-  - Grammar of Rutul
-  - Non-indicative moods in Nakh-Dagestanian languages
-  - Optative in typological perspective
