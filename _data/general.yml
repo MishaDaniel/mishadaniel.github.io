@@ -16,8 +16,9 @@ fields:
   - language contact
   - corpus linguistics
   
-  
-  - "Empirical expertise: East Caucasian (Nakh-Daghestanian) languages"
+languages:
+  - East Caucasian (Nakh-Daghestanian) languages
+  - Russian
 
 
 
