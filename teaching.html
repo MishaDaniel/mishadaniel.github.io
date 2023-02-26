@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="teaching">
+<div class="teaching_courses">
   <h2>Teaching experience</h2>
   <ul>
     {% for course in site.data.teaching.courses %}
@@ -13,3 +13,35 @@ layout: default
   </ul>
 </div>
 
+<div class="teaching_awards">
+  <h2>Teaching awards</h2>
+  <ul>
+    {% for award in site.data.teaching.awards %}
+    <li>
+      {{ award }}
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div class="teaching_supervision">
+  <h2>Supervision of BA and MA students</h2>
+  <ul>
+    {% for supervision in site.data.teaching.supervisions %}
+    <li>
+      {{ supervision }}
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div class="phd">
+  <h2>PhD students</h2>
+  <ul>
+    {% for phd in site.data.teaching.phds %}
+    <li>
+      {{ phd }}
+    </li>
+    {% endfor %}
+  </ul>
+</div>
