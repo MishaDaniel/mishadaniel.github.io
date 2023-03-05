@@ -76,61 +76,114 @@ Finally, inspired by my experience of working for the World Atlas of Language St
 ##References
 
 Andriyanets, Vasilisa, Michael Daniel, Brigitte Pakendorf. 2018. Discovering dialectal differences based on oral corpora. // Kompjuternaja lingvistika i intellektualnyje tekhnologiji. Proceedings of International conference Dialogue. Issue 17 (24). P. 28-38.
+
 Arkhipov, Alexandre, Michael Daniel, Oleg Belyaev, George Moroz, John H. Esling. 2019. A reinterpretation of lower-vocal-tract articulations in Caucasian languages, in: Proceedings of the 19th International Congress of Phonetic Sciences, Melbourne, Australia 2019. Australasian Speech Science and Technology Association Inc. P. 1550-1554.
-Chechuro, Ilya, Michael Daniel and Samira Verhees. 2021. Small-scale multilingualism through the prism of lexical borrowing. International Journal of Bilingualism 25(4). P. 1019-1039.
+
 Chechuro, Ilya, Michael Daniel and Samira Verhees. 2021. Small-scale multilingualism through the prism of lexical borrowing. International Journal of Bilingualism 25(4). P. 1019-1039. 
+
 Chechuro I., Daniel M., and Verhees S. 2019. Daghestanian loans. Linguistic Convergence Laboratory, HSE.)
-Comrie, Bernard, and Maria Polinsky. 1998. The great Daghestanian case hoax. In: Anna Siewierska and Jae Jung Song (eds.), Case, typology and grammar. John Benjamins Publishing Company. 95-114.
+
+Comrie, Bernard, and Maria Polinsky. 1998. The great Daghestanian case hoax. In: Anna Siewierska and Jae Jung Song (eds.), Case, typology and grammar. John Benjamins Publishing Company. P. 95-114.
  Daniel, M., K. Filatov, T. Maisak, G. Moroz, T. Mukhin, C. Naccarato, and S. Verhees. 2022. Typological Atlas of the Languages of Daghestan (TALD), v. 1.0.0. Moscow: Linguistic Convergence Laboratory, NRU HSE. DOI: 10.5281/zenodo.6807070. http://lingconlab.ru/dagatlas.
+ 
 Daniel, Michael, and Andrew Spencer. 2009. The Vocative: an outlier case. In: Andrej Malchukov and Andrew Spencer (eds.) The Oxford Handbook of Case. NY: Oxford University Press.
+
 Daniel, Michael, and Dmitry Ganenkov. 2009. Case marking in Daghestanian: limits of elaboration. In: Andrej Malchukov and Andrew Spencer (eds.) The Oxford Handbook of Case, 668-685. NY: Oxford University Press.
+
 Daniel, Michael, and Edith Moravcsik. 2005 (2013). Associative plurals. In: Matthew Dryer, Martin Haspelmath, Bernard Comrie and David Gil (eds.) World Atlas of Language Structures. Oxford University Press.
+
 Daniel, Michael, and Nina Dobrushina. (Under revision, a) Apprehensive in East Caucasian. Submitted to a collected volume to appear in Language Science Press. 
-Daniel, Michael, Ilya Chechuro, Samira Verhees, Nina Dobrushina. 2021. Lingua franca as lexical donors. Language 97(3). P. 520-560. 
+
+Daniel, Michael, Ilya Chechuro, Samira Verhees, Nina Dobrushina. 2021. Lingua franca as lexical donors. Language 97(3). P. 520-560.
+
 Daniel, Michael, Ilya Shurov, Alexei Koshevoy, and Nina Dobrushina. 2022. Can Recall Data Be Trusted? Evaluating Reliability of Interview Data on Traditional Multilingualism in Highland Daghestan. Field Methods 34(2). P. 288-302.
+
 Daniel, Michael, Ruprecht von Waldenfels, Aleksandra Ter-Avanesova, Polina Kazakova, Ilya Schurov, Ekaterina Gerasimenko, Daria Ignatenko, Ekaterina Makhlina, Maria Tsfasman, Samira Verhees, Aleksei Vinyar, Vasilisa Zhigulskaya, Maria Ovsjannikova, Sergei Say, Nina Dobrushina. 2019. Dialect loss in the Russian North: modeling change across variables. Language Variation and Change. Vol. 31. No. 3. P. 353-376. 
-Daniel, Michael, Timur Maisak, and Solmaz Merdanova. 2012. Causatives in Aghul. In: P. Suihkonen, B. Comrie, V. Solovyev (eds.) Argument structure and grammatical relations. A cross-linguistic typology. Issue 126. Philadelphia, Amsterdam: John Benjamins Publishing Company. Pp. 55-113.
-Daniel, Michael, Zarina Molochieva and Zaira Khalilova. 2010. Ditransitive constructions in East Caucasian. In: Bernard Comrie and Martin Haspelmath (eds.) Studies in Ditransitive construction: a comprehensive handbook. Berlin, NY : Walter de Gruyter. Pp. 277-315.
+
+Daniel, Michael, Timur Maisak, and Solmaz Merdanova. 2012. Causatives in Aghul. In: P. Suihkonen, B. Comrie, V. Solovyev (eds.) Argument structure and grammatical relations. A cross-linguistic typology. Issue 126. Philadelphia, Amsterdam: John Benjamins Publishing Company. P. 55-113.
+
+Daniel, Michael, Zarina Molochieva and Zaira Khalilova. 2010. Ditransitive constructions in East Caucasian. In: Bernard Comrie and Martin Haspelmath (eds.) Studies in Ditransitive construction: a comprehensive handbook. Berlin, NY : Walter de Gruyter. P. 277-315.
+
 Daniel, Michael. 2005. Understanding Inclusives. In: Elena Filimonova (ed.) Clusivity: typology and case studies of the inclusive-exclusive distinction. Amsterdam : John Benjamins Publishing Company.
+
 Daniel, Michael. 2005 (2013). Plurality in independent personal pronouns. In: Matthew Dryer, Martin Haspelmath, Bernard Comrie and David Gil (eds.) World Atlas of Language Structures. Oxford University Press.
-Daniel, Michael. 2014. Against the addressee of speech – Recipient metaphor: Evidence from East Caucasian. In: Silvia Luraghi and Heiko Narog (eds.) Perspectives on Semantic Roles. Typological studies in language 106. Philadelphia, Amsterdam: John Benjamins Publishing Company. Pp. 205-239.\
+
+Daniel, Michael. 2014. Against the addressee of speech – Recipient metaphor: Evidence from East Caucasian. In: Silvia Luraghi and Heiko Narog (eds.) Perspectives on Semantic Roles. Typological studies in language 106. Philadelphia, Amsterdam: John Benjamins Publishing Company. Pp. 205-239.
+
 Daniel, Michael. 2014. The Second Genitive in Russian. In: Silvia Luraghi and Hannu Tommola (eds.) Partitive cases and related categories. Berlin, NY: Mouton de Gruyter. P. 347-377.
-Daniel, Michael. 2015. Logophoric reference in Archi. Journal of Pragmatics. Vol. 88. P. 202-219. 
+
+Daniel, Michael. 2015. Logophoric reference in Archi. Journal of Pragmatics. Vol. 88. P. 202-219.
+
 Daniel, Michael. 2015. Stem initial alternation in Russian third person pronouns: variation in grammar. In: Kompjuternaja lingvistika i intellektualnyje tekhnologiji. Proceedings of International conference Dialogue. Moscow: RGGU. P. 95-103.
+
 Daniel, Michael. 2016. Book review: Sonnenhauser, Barbara and Patrizia Noel Aziz Hanna: Vocative! Addressing between system and performance // Folia Linguistica. 2016. Vol. 50. No. 2. P. 725-733.
+
 Daniel, Michael. 2022. Double causatives, lability and elusive agent in Mehweb. STUF - Sprachtypologie und Universalienforschung. P. 73-97.
+
 Daniel, Michael and Victoria Khurshudian. 2015. Valency Classes in Eastern Armenian. Bernard Comrie and Andrej Malchukov (eds.) Valency classes in the World’s languages. Berlin: Mouton de Gruyter. P. 483-540.
+
 Daniel, Mikhail, and Solmaz Merdanova. 2001. Conception of number in a language lacking deficient number paradigms. Aghul from within and from outside. Proceedings of the International Workshop Dialogue’2001 in Computational and Applied Linguistics. Moscow: Aksakovo, vol. 1. [In Russian]
+
 Daniel, Mikhail, and Yury Lander. 2013. Asymmetry of syntactic roles in relativization: data on relativization frequency in Archi and Udi // Semantika jazykovykh jedinic raznykh urovnej. Jezhegodnyj sbornik naychnykh trudov. Issue 15. Makhachkala: Daghestan State University. P. 59-78. [In Russian]
+
 Daniel, Mikhail. 1998. Constructions with ‘consumed’ reference. On one type of the use of the preposition s in Russian. Proceedings of the International Workshop Dialogue’1998 in Computational and Applied Linguistics. Kazan: Heter, vol. 1. [In Russian]
+
 Daniel, Mikhail. 1999. Semantic types of associative plurals. Data from Bagvalal. // Tipologija i kultura. From description to explanation. Moscow: Jazyki Russkoj Kultury. [In Russian]
+
 Daniel, Mikhail. 2001. Noun. Case and spatial forms. Predicate-argument relations. // Aleksandr Kibrik (ed.). Bagvalinskij jazyk. Grammatika. Teksty. Slovari. Moscow: IMLI RAN. [In Russian]
+
 Daniel, Mikhail. 2002b. Is inclusive a first person pronoun? A study in terminology in a typological perspective. // Vladimir Plungian and Anna Urmanchieva (eds.) Jazyki mira, tipologija, uralistika. Tribute to Tatiana Zhdanova. Articles and memories. Moscow: Indrik. Pp. 232-251. [In Russian]
+
 Daniel, Mikhail. 2007. Peripheral meanings of number in Tatar and some other Turkic languages // Misharskij dialekt tatarskogo jazyka. Ocherki po sintaksisu i semantike. Kazan: Magarif. [In Russian]
+
 Daniel, Mikhail. 2009. The new Russian vocative. A history of the truncated address in the corpus of written texts // In: Korpusnyje issledovanija po russkoj grammatike. Мoscow: Probel. [In Russian]
+
 Daniel, Mikhail. 2018. Part-of-speech category of the property words in Archi. // Voprosy jazykoznanija. Vol.  4. P. 114-132. [In Russian]
+
 Dobrushina, Nina, Michael Daniel, and Yuri Koryakov. 2020. Atlas of multilingualism in Daghestan: A case study in diachronic sociolinguistics. Languages of the Caucasus. Vol. 4. P. 1-37.
+
 Dobrushina, Nina, Michael Daniel, and Yuri Koryakov. 2021. Languages and sociolinguistics of the Caucasus. In Maria Polinsky (ed.) Oxford Handbook of Languages of the Caucasus, 27-66. Oxford: Oxford University Press.
+
 Dobrushina, Nina. 2013. How to study multilingualism of the past: Investigating traditional contact situations in Daghestan. Journal of sociolinguistics 17, no. 3. P. 376-393.
+
 Dorian, Nancy. 2010. Investigating variation. The effects of social organization and social setting. Oxfrod: Oxford University Press.
+
 Epps, Patience. 2018. Contrasting linguistic ecologies: Indigenous and colonially mediated language contact in northwest Amazonia. Language & communication. 62 (2018). 156-169.
+
 Haspelmath, Martin and Uri Tadmor (eds.) 2009. Loanwords in the world's languages: a comparative handbook. Berlin: Walter de Gruyter.
+
 Kibrik, Aleksandr. 1970. K tipologii prostranstvennyx značenij (na materiale padežnyx sistem dagestanskix jazykov). In: Jazyk i čelovek. Moscow: Izd-vo MGU. [In Russian]
+
 Koile, Ezequiel, Ilya Chechuro, Michael Daniel and George Moroz. 2022. Geography and language divergence: The case of Andic languages. PlosOne 17(5).
+
 Koptjevskaja-Tamm, Maria, and Bernhard Wälchli, 2001, “The Circum- Baltic Languages: An Areal-Typological Approach,” The Circum-Baltic Languages: Typology and Contact, vol. 2: Grammar and Typology (Studies in Language Companion Series), eds. Ö. Dahl and M. Koptjevskaja-Tamm, Amsterdam & Philadelphia, pp. 615–750. 
+
 Kristine A. Hildebrandt, Carmen Jany and Wilson Silva (eds.). 2017. Documenting variation in endangered languages.
-Levin, Beth and Malka Rappoport-Hovav. 2005. Argument realization. Cambridge: CUP. 
+
+Levin, Beth and Malka Rappoport-Hovav. 2005. Argument realization. Cambridge: CUP.
+
 Magomedgadžieva, Patimat, and Michael Daniel. 2021. A Dictionary of Tukita. http://lingconlab.ru/TukitaDict/
+
 Michael A. Daniel, Nina Dobrushina and Dmitri Ganenkov. 2019. Essays in grammar of Mehweb. Language Science Press.
+
 Musaev, Anwar and Michael Daniel. 2021. A Dictionary of Mehweb. http://lingconlab.ru/MehwebDict/
+
 Plungian, Vladimir and Mikhail Daniel. 1996. Obligatoriness and contextual redundancy. Investigating the periphery of grammar. Izvestija RAN, SLJa, 55-1. P. 61-66.
+
 Primus, Beatrice. 2011. Case-marking typology. In Jae Jung Song (ed.) The Oxford Handbook of Linguistic Typology. P. 303-321. 
+
 Seržant, Ilja A. 2015. The independent partitive as an Eastern Circum-Baltic isogloss. Journal of Language Contact 8.2, 341-418.
+
 Shiryaev, Alexander, Michael Daniel, and George Moroz. 2022. Glottalized lateral in Rikvani Andi: an acoustic study. Phonetica 79:4, 353-395.
+
 Stanford, James N., and Dennis Preston. 2008. Variation in Indigenous Minority Languages. Amsterdam: John Benjamins.
+
 Ter-Avanesova, Alexandra, and Michael Daniel. 2022 (online first). The Second Genitive in the history of Russian and across its dialects. Linguistic Variation. 
+
 Vaughan, J. 2019. The ordinariness of translinguistics in Indigenous Australia. Translinguistics: Negotiating innovation and ordinariness, ed. by J. W. Lee, and S. Dovchin. London: Routledge. P. 90–103.
+
 Volkov, Oleg, and Michael Daniel (published as an HSE preprint). Imperative paradigm in Chukotko-Kamchatkan languages is not formally homogeneous / NRU HSE. Series WP BRP "Linguistics". 2017. No. 63.
+
 Volkov, Oleg, Mikhail Daniel, Maria Pupynina and Daria Ryzhova. 2012. Towards a description of the aspectual system of Chukotkan languages // Vladimir A. Plungian, Evgenij A. Golovko, Michael Daniel, and Ksenia Semenova. Acta linguistica Petropolitana. Issue 6. Typology of aspectual systems and categories. Vol. VIII.2. Publications of the Institute of Linguistic Studies. St. Petersburg: Nauka. Pp. 396-457. [In Russian]
 
 
