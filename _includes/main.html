@@ -9,3 +9,15 @@
     </ul>
   </div>
 </div>
+
+<div class="column left">
+  <img src="/assets/img/ava.jpg" height="200em">
+  <div class="interests">
+    <h2>Empirical expertise</h2>
+    <ul style="padding-left: 1.5em;">
+      {% for field in site.data.general.languages %}
+        <li>{{ field }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
