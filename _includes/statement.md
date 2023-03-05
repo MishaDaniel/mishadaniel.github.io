@@ -75,15 +75,16 @@ Finally, inspired by my experience of working for the World Atlas of Language St
 
 ##References
 
-Andriyanets, Vasilisa, Michael Daniel, Brigitte Pakendorf. 2018. Discovering dialectal differences based on oral corpora. // Kompjuternaja lingvistika i intellektualnyje tekhnologiji. Proceedings of International conference Dialogue. Issue 17 (24). P. 28-38.
+Andriyanets, Vasilisa, Michael Daniel, Brigitte Pakendorf. 2018. Discovering dialectal differences based on oral corpora. In: Kompjuternaja lingvistika i intellektualnyje tekhnologiji. Proceedings of International conference Dialogue. Issue 17 (24). P. 28-38.
 
 Arkhipov, Alexandre, Michael Daniel, Oleg Belyaev, George Moroz, John H. Esling. 2019. A reinterpretation of lower-vocal-tract articulations in Caucasian languages, in: Proceedings of the 19th International Congress of Phonetic Sciences, Melbourne, Australia 2019. Australasian Speech Science and Technology Association Inc. P. 1550-1554.
 
 Chechuro, Ilya, Michael Daniel and Samira Verhees. 2021. Small-scale multilingualism through the prism of lexical borrowing. International Journal of Bilingualism 25(4). P. 1019-1039. 
 
-Chechuro I., Daniel M., and Verhees S. 2019. Daghestanian loans. Linguistic Convergence Laboratory, HSE.)
+Chechuro I., Daniel M., and Verhees S. 2019. Daghestanian loans. Linguistic Convergence Laboratory, HSE.
 
 Comrie, Bernard, and Maria Polinsky. 1998. The great Daghestanian case hoax. In: Anna Siewierska and Jae Jung Song (eds.), Case, typology and grammar. John Benjamins Publishing Company. P. 95-114.
+
  Daniel, M., K. Filatov, T. Maisak, G. Moroz, T. Mukhin, C. Naccarato, and S. Verhees. 2022. Typological Atlas of the Languages of Daghestan (TALD), v. 1.0.0. Moscow: Linguistic Convergence Laboratory, NRU HSE. DOI: 10.5281/zenodo.6807070. http://lingconlab.ru/dagatlas.
  
 Daniel, Michael, and Andrew Spencer. 2009. The Vocative: an outlier case. In: Andrej Malchukov and Andrew Spencer (eds.) The Oxford Handbook of Case. NY: Oxford University Press.
@@ -108,7 +109,7 @@ Daniel, Michael. 2005. Understanding Inclusives. In: Elena Filimonova (ed.) Clus
 
 Daniel, Michael. 2005 (2013). Plurality in independent personal pronouns. In: Matthew Dryer, Martin Haspelmath, Bernard Comrie and David Gil (eds.) World Atlas of Language Structures. Oxford University Press.
 
-Daniel, Michael. 2014. Against the addressee of speech – Recipient metaphor: Evidence from East Caucasian. In: Silvia Luraghi and Heiko Narog (eds.) Perspectives on Semantic Roles. Typological studies in language 106. Philadelphia, Amsterdam: John Benjamins Publishing Company. Pp. 205-239.
+Daniel, Michael. 2014. Against the addressee of speech – Recipient metaphor: Evidence from East Caucasian. In: Silvia Luraghi and Heiko Narog (eds.) Perspectives on Semantic Roles. Typological studies in language 106. Philadelphia, Amsterdam: John Benjamins Publishing Company. P. 205-239.
 
 Daniel, Michael. 2014. The Second Genitive in Russian. In: Silvia Luraghi and Hannu Tommola (eds.) Partitive cases and related categories. Berlin, NY: Mouton de Gruyter. P. 347-377.
 
