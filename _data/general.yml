@@ -1,12 +1,12 @@
 personal:
     name: Michael Daniel
     born: born 13 September, 1972
-    nationality: Russian Federation
+    nationality: "nationality: Russian"
     university: Collegium de Lyon
     position: research fellow
-    ORCID: "0000-0002-2091-5713"
+    ORCID: "ORCID: 0000-0002-2091-5713"
     email: misha.daniel@gmail.com
-    marital status: married with three children and one dog
+    marital: married with three children and one dog
 
 fields:
   - "linguistic typology, sociolinguistics, language documentation, and corpus linguistics; in particular:"
