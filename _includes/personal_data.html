@@ -5,41 +5,21 @@
   <img src="/assets/img/ava.jpg" height="150em">
 </div>
 
-<div class="born">
-  <div>
-    {{ site.data.general.personal.born }}
+<!-- <ul> -->
+
+  <div class="position">
+    <i class="fa fa-building-columns"></i> {{ site.data.general.personal.university }}, <b>{{ site.data.general.personal.position }}</b>
   </div>
-</div>
 
-<div class="nationality">
-  <div>
-    {{ site.data.general.personal.nationality }}
+  <div class="ORCID">
+      <i class="fa-brands fa-orcid"></i> <a target="_blank" href="https://orcid.org/{{ site.data.general.personal.ORCID }}">{{ site.data.general.personal.ORCID }}</a>
   </div>
-</div>
 
-<div class="marital">
-  <div>
-    {{ site.data.general.personal.marital }}
+  <div class="contacts">
+      <i class="fa fa-envelope"></i>
+      <a class="email" href="mailto:{{site.data.general.personal.email}}"> {{ site.data.general.personal.email }}</a>
   </div>
-</div>
-
-
-<div class="position">
-  <i class="fa fa-building-columns"></i> {{ site.data.general.personal.university }}, <b>{{ site.data.general.personal.position }}</b>
-</div>
-
-<div class="ORCID">
-  <div>
-    {{ site.data.general.personal.ORCID }}
+  <div class="cv">
+    <i class="fa fa-file"></i> <a href="#" onclick="event.preventDefault();window.open('/Daniel_CV_2023.pdf')">CV</a>
   </div>
-</div>
-
-<div class="contacts">
-  <div>
-    <i class="fa fa-envelope"></i>
-    <a class="email" href="mailto:{{site.data.general.personal.email}}"> {{ site.data.general.personal.email }}</a>
-  </div>
-</div>
-<div class="cv">
-  <i class="fa fa-file"></i> <a href="#" onclick="event.preventDefault();window.open('/Daniel_CV_2023.pdf')">CV</a>
-</div>
+<!-- </ul> -->

@@ -41,7 +41,8 @@ body {
 
 a {
   color: black;
-  font-family: monospace, monospace;
+  text-decoration: underline;
+  /* font-family: monospace, monospace; */
 }
 
 a:hover {
@@ -52,6 +53,10 @@ a:hover {
   border-bottom: 0.1em solid crimson;
   text-decoration: none;
   color: crimson;
+}
+
+.ORCID a, .contacts a, .cv a {
+  text-decoration: none !important;
 }
 
 .navbar li:hover {
@@ -85,10 +90,6 @@ h3 {
 
 td {
   padding-bottom: 1em;
-}
-
-.contacts div, .position {
-  margin-bottom: 0.5em;
 }
 
 td:first-child {
@@ -146,4 +147,8 @@ td:first-child {
 
 .cv {
   padding-bottom: 1em;
+}
+
+.personal_information {
+  margin-top: 1.5em;
 }
