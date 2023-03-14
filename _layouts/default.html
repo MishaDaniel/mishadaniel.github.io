@@ -40,6 +40,25 @@
         {% include main.html %}
         <div class="column right">
           {% include personal_data.html %}
+          <div class="personal_information little">
+            <div class="born">
+              <div>
+                born {{ site.data.general.personal.born }}
+              </div>
+            </div>
+          
+            <div class="nationality">
+              <div>
+                nationality: {{ site.data.general.personal.nationality }}
+              </div>
+            </div>
+          
+            <div class="marital">
+              <div>
+                {{ site.data.general.personal.marital }}
+              </div>
+            </div>
+          </div>
           {% include nav.html %}
           {{ content }}
         </div>

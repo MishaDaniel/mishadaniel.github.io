@@ -150,3 +150,8 @@ td:first-child {
 .personal_information {
   margin-top: 1.5em;
 }
+
+.personal_information.little {
+  margin-top: 0;
+  margin-bottom: 1em;
+}
