@@ -9,12 +9,13 @@ personal:
     marital: married with three children and one dog
 
 fields:
-  - "linguistic typology, sociolinguistics, language documentation, and corpus linguistics; in particular:"
-  - morphology and morphosyntax
-  - nominal categories
-  - language variation
-  - language contact
-  - corpus linguistics
+    main: "linguistic typology, sociolinguistics, language documentation, and corpus linguistics; in particular:"
+    particular:
+      - morphology and morphosyntax
+      - nominal categories
+      - language variation
+      - language contact
+      - corpus linguistics
   
 languages:
   - East Caucasian (Nakh-Daghestanian) languages

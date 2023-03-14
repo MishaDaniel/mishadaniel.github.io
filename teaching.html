@@ -4,8 +4,13 @@ layout: default
 
 <div class="teaching_courses">
   <h2>Teaching experience</h2>
+  {% for info in site.data.teaching.courses.info %}
+  <p>
+    {{ info }}
+  </p>
+  {% endfor %}
   <ul>
-    {% for course in site.data.teaching.courses %}
+    {% for course in site.data.teaching.courses.list %}
     <li>
       {{ course }}
     </li>
@@ -18,7 +23,7 @@ layout: default
   <ul>
     {% for award in site.data.teaching.awards %}
     <li>
-      {{ award }}
+      {{ award | markdownify }}
     </li>
     {% endfor %}
   </ul>
@@ -29,7 +34,7 @@ layout: default
   <ul>
     {% for supervision in site.data.teaching.supervisions %}
     <li>
-      {{ supervision }}
+      {{ supervision | markdownify }}
     </li>
     {% endfor %}
   </ul>

@@ -8,14 +8,13 @@
 
 @font-face {
   font-family: 'Literata';
-  src: url('../fonts/Literata-Regular.ttf'),
-       url('../fonts/Literata-Bold.ttf'),
-       url('../fonts/Literata-BoldItalic.ttf'),
-       url('../fonts/Literata-Italic.ttf'),
-       url('../fonts/Literata-Medium.ttf'),
-       url('../fonts/Literata-MediumItalic.ttf'),
-       url('../fonts/Literata-SemiBold.ttf'),
-       url('../fonts/Literata-SemiBoldItalic.ttf');
+  src: url('../fonts/Literata-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Literata';
+  src: url('../fonts/Literata-Bold.ttf');
+  font-weight: bold;
 }
 
 body {
