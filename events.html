@@ -4,13 +4,9 @@ layout: default
 
 <div class="plenary">
   <h2>Invited lectures</h2>
-  <table>
-    {% for lecture in site.data.lectures.invited %}
-    <tr>
-      <td style="width: 9em;">{{lecture.year}}</td>
-      <td>{{lecture.place}}</td>
-    </tr>
-    {% endfor %}
+  <p>
+    {{ site.data.lectures.invited }}
+  </p>
   </table>
 </div>
 
