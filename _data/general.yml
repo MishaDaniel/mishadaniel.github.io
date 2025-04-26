@@ -2,7 +2,7 @@ personal:
     name: Michael Daniel
     born: 13 September, 1972
     nationality: "Russian"
-    university: Collegium de Lyon
+    university: University of Tübingen
     position: research fellow
     membership: member of Academia Europaea
     ORCID: "0000-0002-2091-5713"
@@ -20,6 +20,7 @@ fields:
   
 languages:
   - East Caucasian (Nakh-Daghestanian) languages
+  - languages of Russia
   - Russian
 
 
