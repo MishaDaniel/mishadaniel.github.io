@@ -1,6 +1,7 @@
 sections:
   - name: peer-reviewed journals
     papers:
+      - "Popova, Rita, Anton Buzanov, Ekaterina Voloshina, and Michael Daniel. (Third revision) Size matters: towards a critical assessment of size-related effects in gender assignment."
       - "Ter-Avanesova, Alexandra, and Michael Daniel. 2023. The Second Genitive in the history of Russian and across its dialects. Linguistic Variation, 28-74. (Equal contribution to writing, minor contribution to data)."
       - "Shiryaev, Alexander, Michael Daniel, and George Moroz. 2022. Glottalized lateral in Rikvani Andi: an acoustic study. Phonetica 79(4), 353-395. (One of the two principal contributors)"
       - "Daniel, Michael, Ilya Shurov, Alexei Koshevoy, and Nina Dobrushina. 2022. Can Recall Data Be Trusted? Evaluating Reliability of Interview Data on Traditional Multilingualism in Highland Daghestan. Field Methods 34(2), 288-302. (One of the three principal contributors)."
@@ -22,6 +23,7 @@ sections:
     
   - name: edited volumes
     papers:
+      - "Daniel, Michael, Nina Dobrushina, and Timur Maisak. In preparation. Grammar of Kina Rutul."
       - "Acquaviva, Paolo, and Michael Daniel (eds.). 2022. Number in the World’s Languages. De Gruyter Mouton. (Equal contribution)."
       - "Daniel, Michael, Nina Dobrushina, and Dmitri Ganenkov. 2019. The Mehweb language: Essays on phonology, morphology and syntax. Language Science Press. (One of the two principal contributors)."
       - "Dobrushina, Nina, and Michael Daniel. 2016. Dva veka v dvadcati slovax [Two centuries in twenty words]. Moscow: HSE Publishers. [In Russian] (Minor contribution)."
@@ -30,9 +32,12 @@ sections:
 
   - name: book chapters
     papers:
-      - "Daniel, Michael, and Nina Dobrushina. (Under revision) Apprehensive in East Caucasian. Submitted to a collective volume to appear in Language Science Press. (Principal contribution)"
-      - "Daniel, Michael, and Nina Dobrushina. (Under revision). Russian: variationist approach. To appear in Yoshi Asahi, Alexandra D’Arcy, and Paul Kerswill. Routledge Handbook of Variationist Sociolinguistics. (Principal contribution)"
-      - "Daniel, Mikhail. (Under revision). Sociolingvistika [Sociolinguistics]. (A chapter in the introduction textbook to linguistics) [in Russian]." 
+      - "Daniel, Michael. (In preparation) Mehweb. In: Yuri B. Koryakov, Yury Lander, and Timur Maisak (eds.) HSK Caucasian Languages Vol. 1.1, 1.2 & 2. De Gruyter."
+      - "Zakirova, Aigul, Michael Daniel, and Timur Maisak. 2026. From intensifiers to discourse particles and conjunctions: novel data from East Caucasian. In Arkhangelskiy, T., Klumpp, G., Markus, E., Tomingas, M., Zubova, Yu. Origin of Discourse Particles: Borrowing and Grammaticalization. DeGruyter, Trends in Linguistics. Studies and Monographs."
+      - "Daniel, Michael, and Timur Maisak. 2026. Nakh-Daghestanian. In: Peter Arkadiev and Franz Rainer (eds.) Oxford Handbook of Historical Morphology. Oxford: OUP."
+      - "Daniel, Michael, and Nina Dobrushina. 2026. Apprehensive in East Caucasian. In Martina Faller, Marine Vuillermet and Eva Schultze-Berndt (eds.) Apprehensional constructions in a cross-linguistic perspective. Language Science Press."
+      - "Daniel, Michael, and Nina Dobrushina. 2026. Russian: variationist approach. In Yoshi Asahi, Alexandra D’Arcy, and Paul Kerswill. Routledge Handbook of Variationist Sociolinguistics. (Principal contribution)"
+      - "Daniel, Mikhail. 2026. Sociolingvistika [Sociolinguistics]. (A chapter in the introduction textbook to linguistics) [in Russian]." 
       - "Acquaviva, Paolo, and Michael Daniel. 2022. Number in grammar: results and perspectives. In: Paolo Acquaviva and Michael Daniel (eds.) Number in the World’s languages. De Gruyter Mouton. Pp. 833-910. (Equal contribution)"
       - "Daniel, Mikhail. 2021. Dom tam, gde nolʹ [The house is where the zero is]. In: Timur Maisak, Nina Submatova and Yakov Testekets (eds.) Durqasi xazna. Tribute to the 60th anniversary of Rasul Mutalov. Pp. 53-72. [In Russian]"
       - "Dobrushina, Nina, Michael Daniel, and Yuri Koryakov. 2021. Languages and sociolinguistics of the Caucasus. In: Maria Polinsky (ed.) Oxford Handbook of Languages of the Caucasus. Oxford: Oxford University Press. Pp. 27-66. (Equal contribution from all authors)"
@@ -75,6 +80,23 @@ sections:
       - "Daniel, Mikhail. 2001. Padež i lokalizacija [Case and spatial forms]. In: In: Aleksandr Kibrik, Konstantin Kazenin, Ekaterina Lyutikova and Sergei Tatevosov (eds.) Bagvalinskij jazyk. Grammatika. Teksty. Slovari. Pp. 203-230. Moscow: IMLI RAN. [In Russian]"
       - "Daniel, Mikhail. 2001. Predikatno-argumentnoe jadro [Predicate-argument relations]. In: Aleksandr Kibrik, Konstantin Kazenin, Ekaterina Lyutikova and Sergei Tatevosov (eds.). Bagvalinskij jazyk. Grammatika. Teksty. Slovari. Pp. 369-376. Moscow: IMLI RAN. [In Russian]"
       - "Daniel, Mikhail. 1999. Semantičeskie tipy associativnosti (na materiale bagvalinskogo jazyka) [Semantic types of associative plurals. Data from Bagvalal]. In: Ekatetina Raxilina and Yakov Testelets (eds.) Tipologija i teorija jazyka: ot opisanija k obʺjasneniju. K 60-letiju E. A. Kibrika. Pp. 362-370. Moscow: Jazyki Russkoj Kultury. [In Russian]"
+
+  - name: online publications and databases
+    papers:
+      - "Alekseeva, Anastasia, Nikita Beklemishev, Michael Daniel, Nina Dobrushina, Konstantin Filatov, Anastasia Ivanova, Timur Maisak, Maksim Melenchenko, George Moroz, Ivan Netkachev, Ilya Sadakov. Atlas of Rutul dialects. Moscow: Linguistic Convergence Laboratory, HSE University. https://lingconlab.github.io/rutul_dialectology/index.html"
+      - "Alekseeva, Anastasia, and Michael Daniel. 2025. Inclusive/exclusive distinction in pronouns. In: Typological Atlas of the Languages of Daghestan (TALD). Ed. by M. Daniel, K. Filatov, T. Maisak, G. Moroz, T. Mukhin, C. Naccarato and S. Verhees. Moscow: Linguistic Convergence Laboratory, NRU HSE."
+      - "Daniel, Michael, Konstantin Filatov, Timur Maisak, George Moroz, Timofey Mukhin, Chiara Naccarato and Samira Verhees. 2020-. Typological Atlas of the Languages of Daghestan (TALD). Moscow: Linguistic Convergence Laboratory, NRU HSE."
+      - "Contribution to BivalTyp: Kumyk database of valencies, Mehweb database of valencies, Archi Database of valencies, Lak database of valencies, Kina Rutul database of valencies, Khinalug database of valencies (in prep.)"
+      - "Filatov, Konstantin, and Michael Daniel. DagSwadesh: 100 Swadesh lists from Daghestan. An online database of basic vocabulary divergence across neighbour villages. Moscow: Linguistic Convergence Laboratory, HSE University. lingconlab.github.io/dagswadesh/index.html"
+      - "Filatov, Konstantin and Michael Daniel. Dictionary of Rutul. Moscow: Linguistic Convergence Laboratory, HSE University. https://linghub.ru/rutuldict/"
+      - "Musaev, Anwar, Lera Morozova, and Michael Daniel. Dictionary of Mehweb. Moscow: Linguistic Convergence Laboratory, HSE University. http://lingconlab.ru/MehwebDict/"
+      - "Magomedgadzhieva, Patimat and Michael Daniel. Dictionary of Tukita. Moscow: Linguistic Convergence Laboratory, HSE University. http://lingconlab.ru/TukitaDict/"
+      - "Chechuro, Ilya, Michael Daniel, and Samira Verhees. 2019. Daghestanian loans. Moscow: Linguistic Convergence Laboratory, HSE University. https://lingconlab.ru/dagloans/"
+      - "Atlas of Daghestanian Multilingualism (https://multidagestan.com/team/)"
+      - "Daniel, Michael, Nina Dobrushina, and Ruprecht von Waldenfels. The language of the Ustja river basin. A corpus of North Russian dialectal speech. 2013-2018. Bern, Moscow. www.parasolcorpus.org/Pushkino"
+      - "Eastern Armenian National Corpus (http://www.eanc.net/en/EANC_team/)"
+      - "Aleksandr E. Kibrik, Sandro V. Kodzasov, Irina P. Olovyannikova, Dzhalil S. Samedov, Michael Daniel, Anna Khoroshkina, & Alexandre Arkhipov. (2007). Archi text corpus (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.8247597"
+      - "Kibrik, Aleksandr et. al. LangueDOC: Center For Digital Language Archives (www.philol.msu.ru/~languedoc)"
 
   - name: conference proceedings
     papers:
