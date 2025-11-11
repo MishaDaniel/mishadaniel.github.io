@@ -1,30 +1,39 @@
 positions:
+
+  - year: 2025 - 2028
+    place: "researcher at Jena University (DFG funded individual research position)"
+  - year: 2024 - 2025
+    place: "researcher at University of Tübingen (ERC project CrossLingference)"
+  - year: 2022 - 2024
+    place: "fellow of Collegium de Lyon / Laboratoire Dynamique du Langage"
+  - year: 2022
+    place: "visiting scholar at the University of Hamburg"
+  - year: 2016 - 2022
+    place: "senior researcher at Linguistic Convergence Laboratory (ilcl.hse.ru/en/about), HSE University"
+  - year: 2016 - 2017
+    place: "associated fellow of Collegium de Lyon associated with Laboratoire Dynamique du Langage"
+  - year: 2011 - 2022
+    place: "professor at School of Linguistics, HSE University"
+   - year: 2009
+    place: "visiting scholar at MPI for Evolutionary Anthropology, Leipzig"
+  - year: 2010 - 2020
+    place: "researcher at the Institute for the World Culture (Lomonosov Moscow State University)"
+  - year: 2007 - 2022
+    place: "Lomonosov Moscow State University, associate professor at the department of theoretical and applied linguistics"
+  - year: 2000 - 2001
+    place: "visiting scholar at MPI for Evolutionary Anthropology, Leipzig"
+
+education:
   - year: 1989 - 1995
     place: "BA at Russian State University for Humanities, Faculty of Theoretical Linguistics"
   - year: 1995 - 2000
     place: "Doctoral studies at Russian State University for Humanities"
   - year: 2000
     place: PhD degree for "Tipologija associativnoj množestvennosti (A typology of associative plurals). Manuscript, Moscow, Russian State University for Humanities. The degree awarded on April 20, 2001. ALT prize for the best typological PhD in 2001. Supervised by Aleksandr Barulin, Vladimir Plungian. [In Russian]"
-  - year: 2000 - 2001
-    place: "visiting scholar at MPI for Evolutionary Anthropology, Leipzig"
-  - year: 2007 - 2022
-    place: "Lomonosov Moscow State University, associate professor at the department of theoretical and applied linguistics"
-  - year: 2010 - 2020
-    place: "researcher at the Institute for the World Culture (Lomonosov Moscow State University)"
-  - year: 2009
-    place: "visiting scholar at MPI for Evolutionary Anthropology, Leipzig"
-  - year: 2011 - 2022
-    place: "professor at School of Linguistics, HSE University"
-  - year: 2016 - 2017
-    place: "associated fellow of Collegium de Lyon associated with Laboratoire Dynamique du Langage"
-  - year: 2016 - 2022
-    place: "senior researcher at Linguistic Convergence Laboratory (ilcl.hse.ru/en/about), HSE University"
-  - year: 2022
-    place: "visiting scholar at the University of Hamburg"
-  - year: 2022 - 2023
-    place: "fellow of Collegium de Lyon / Laboratoire Dynamique du Langage"
+  
 
 memberships:
+  - Academia Europaea
   - Association for Linguistic Typology
   - Societas Linguistica Europaea
 
