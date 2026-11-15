@@ -1,6 +1,8 @@
 sections:
   - name: peer-reviewed journals
     papers:
+      - "Popova, Rita, and Michael Daniel. (In preparation). On the morphosyntactic status of stem alternation in adjectives of size in East Caucasian."
+      - "Aquilina, Yana, Michael Daniel, and Tatiana Nikitina. (Submitted to Studies in Language.) Differential coding of vision and hearing in Noun+Verb constructions: parallels in Nakh-Daghestanian and Mande."
       - "Popova, Rita, Anton Buzanov, Ekaterina Voloshina, and Michael Daniel. (Third revision) Size matters: towards a critical assessment of size-related effects in gender assignment."
       - "Ter-Avanesova, Alexandra, and Michael Daniel. 2023. The Second Genitive in the history of Russian and across its dialects. Linguistic Variation, 28-74."
       - "Shiryaev, Alexander, Michael Daniel, and George Moroz. 2022. Glottalized lateral in Rikvani Andi: an acoustic study. Phonetica 79(4), 353-395."
@@ -32,12 +34,18 @@ sections:
 
   - name: book chapters
     papers:
+      - "Daniel, Michael. (In preparation). Spatial asymmetries in Mehweb."
+      - "Daniel, Michael. (In preparation). Synthetic morphology of verb in Kina Rutul."
+      - "Daniel, Michael, and Timofey Mukhin. (In preparation). Elevational demonstratives: three axes of asymmetry."
       - "Daniel, Michael. (In preparation) Mehweb. In: Yuri B. Koryakov, Yury Lander, and Timur Maisak (eds.) HSK Caucasian Languages Vol. 1.1, 1.2 & 2. De Gruyter."
-      - "Zakirova, Aigul, Michael Daniel, and Timur Maisak. 2026. From intensifiers to discourse particles and conjunctions: novel data from East Caucasian. In Arkhangelskiy, T., Klumpp, G., Markus, E., Tomingas, M., Zubova, Yu. Origin of Discourse Particles: Borrowing and Grammaticalization. DeGruyter, Trends in Linguistics. Studies and Monographs."
-      - "Daniel, Michael, and Timur Maisak. 2026. Nakh-Daghestanian. In: Peter Arkadiev and Franz Rainer (eds.) Oxford Handbook of Historical Morphology. Oxford: OUP."
+      - "Daniel, Michael, and Patimat Magomedgadzhieva. 2027. Tukita. In: Yuri B. Koryakov, Yury Lander and Timur Maisak (eds.) HSK Caucasian Languages Vol. 1.1, 1.2 & 2. De Gruyter."
+      - "Glavatskikh, Sofia, Michael Daniel, and Timur Maisak. (Submitted). Auxiliary ‘find’ in East Caucasian: between the acquisition of knowledge and direct evidentiality. Abstract submitted to: Stulic, Ana, and Patrick Dendale. (eds.) Emergence-of-knowledge verbs."
+      - "Zakirova, Aigul, Michael Daniel, and Timur Maisak. (Under revision). From intensifiers to discourse particles and conjunctions: novel data from East Caucasian. In Arkhangelskiy, T., Klumpp, G., Markus, E., Tomingas, M., Zubova, Yu. Origin of Discourse Particles: Borrowing and Grammaticalization. DeGruyter, Trends in Linguistics. Studies and Monographs."
+      - "Daniel, Michael, and Timur Maisak. 2027. Nakh-Daghestanian. In: Peter Arkadiev and Franz Rainer (eds.) Oxford Handbook of Historical Morphology. Oxford: OUP."
+      - "Daniel, Michael, and Nina Dobrushina. 2027. Russian: variationist approach. In Yoshi Asahi, Alexandra D’Arcy, and Paul Kerswill. Routledge Handbook of Variationist Sociolinguistics."
       - "Daniel, Michael, and Nina Dobrushina. 2026. Apprehensive in East Caucasian. In Martina Faller, Marine Vuillermet and Eva Schultze-Berndt (eds.) Apprehensional constructions in a cross-linguistic perspective. Language Science Press."
-      - "Daniel, Michael, and Nina Dobrushina. 2026. Russian: variationist approach. In Yoshi Asahi, Alexandra D’Arcy, and Paul Kerswill. Routledge Handbook of Variationist Sociolinguistics."
       - "Daniel, Mikhail. 2026. Sociolingvistika [Sociolinguistics]. (A chapter in the introduction textbook to linguistics) [in Russian]." 
+      - "Alekseeva, Anastasia, and Michael Daniel. 2025. Inclusive/exclusive distinction in pronouns. In: Typological Atlas of the Languages of Daghestan (TALD). Ed. by M. Daniel, K. Filatov, T. Maisak, G. Moroz, T. Mukhin, C. Naccarato and S. Verhees. Moscow: Linguistic Convergence Laboratory, NRU HSE. DOI: 10.5281/zenodo.6807070. http://lingconlab.ru/dagatlas."
       - "Acquaviva, Paolo, and Michael Daniel. 2022. Number in grammar: results and perspectives. In: Paolo Acquaviva and Michael Daniel (eds.) Number in the World’s languages. De Gruyter Mouton. Pp. 833-910."
       - "Daniel, Mikhail. 2021. Dom tam, gde nolʹ [The house is where the zero is]. In: Timur Maisak, Nina Submatova and Yakov Testekets (eds.) Durqasi xazna. Tribute to the 60th anniversary of Rasul Mutalov. Pp. 53-72. [In Russian]"
       - "Dobrushina, Nina, Michael Daniel, and Yuri Koryakov. 2021. Languages and sociolinguistics of the Caucasus. In: Maria Polinsky (ed.) Oxford Handbook of Languages of the Caucasus. Oxford: Oxford University Press. Pp. 27-66."
@@ -84,9 +92,13 @@ sections:
   - name: online publications and databases
     papers:
       - "Alekseeva, Anastasia, Nikita Beklemishev, Michael Daniel, Nina Dobrushina, Konstantin Filatov, Anastasia Ivanova, Timur Maisak, Maksim Melenchenko, George Moroz, Ivan Netkachev, Ilya Sadakov. Atlas of Rutul dialects. Moscow: Linguistic Convergence Laboratory, HSE University. https://lingconlab.github.io/rutul_dialectology/index.html"
-      - "Alekseeva, Anastasia, and Michael Daniel. 2025. Inclusive/exclusive distinction in pronouns. In: Typological Atlas of the Languages of Daghestan (TALD). Ed. by M. Daniel, K. Filatov, T. Maisak, G. Moroz, T. Mukhin, C. Naccarato and S. Verhees. Moscow: Linguistic Convergence Laboratory, NRU HSE."
       - "Daniel, Michael, Konstantin Filatov, Timur Maisak, George Moroz, Timofey Mukhin, Chiara Naccarato and Samira Verhees. 2020-. Typological Atlas of the Languages of Daghestan (TALD). Moscow: Linguistic Convergence Laboratory, NRU HSE."
-      - "Contribution to BivalTyp: Kumyk database of valencies, Mehweb database of valencies, Archi Database of valencies, Lak database of valencies, Kina Rutul database of valencies, Khinalug database of valencies (in prep.)"
+      - "Daniel, Michael & Bulbul Musaeva. 2023. Bivalent patterns in Archi. In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. (Data first published on April 4, 2026; last revised on September 14, 2026.) (Available online at https://bivaltyp.info)"
+      - "Daniel, Michael, Tagir Gadzhiakhmedov and Natalia Logvinova. 2023. Bivalent patterns in Kumyk. In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. (Data first published on September 30, 2023; last revised on January 17, 2024.) (Available online at https://bivaltyp.info)"
+      - "Daniel, Michael and Majsarat Musaeva. 2024. Bivalent patterns in Mehweb. In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. (Data first published on January 21, 2024; last revised on April 6, 202.) (Available online at https://bivaltyp.info)"
+      - "Daniel, Michael, Victor A. Friedman, and Shakhmurad Gamzalaev. 2025. Bivalent patterns in Lak (Quba). In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. (Data first published on April 14, 2025; last revised on May 04, 2025) (Available online at https://bivaltyp.info)"
+      - "Daniel, Michael, Anastasia Fedorenko, and Stepan Mikhailov. 2020. Bivalent patterns in Rutul (Kina). In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. St. Petersburg: Institute for Linguistic Studies, RAS. (Data first published on September 17, 2020; last revised on March 25, 2026.) (Available online at https://bivaltyp.info)"
+      - "Rind-Pawlowski, Monika, Rasim Babayev, Namik Əhmədov, and Michael Daniel. 2026. Bivalent patterns in Khinalug. In: Say, Sergey (ed.). BivalTyp: Typological database of bivalent verbs and their encoding frames. (Data first published on March 11, 2026; last revised on May 3, 2026.) (Available online at https://bivaltyp.info)"
       - "Filatov, Konstantin, and Michael Daniel. DagSwadesh: 100 Swadesh lists from Daghestan. An online database of basic vocabulary divergence across neighbour villages. Moscow: Linguistic Convergence Laboratory, HSE University. lingconlab.github.io/dagswadesh/index.html"
       - "Filatov, Konstantin and Michael Daniel. Dictionary of Rutul. Moscow: Linguistic Convergence Laboratory, HSE University. https://linghub.ru/rutuldict/"
       - "Musaev, Anwar, Lera Morozova, and Michael Daniel. Dictionary of Mehweb. Moscow: Linguistic Convergence Laboratory, HSE University. http://lingconlab.ru/MehwebDict/"
@@ -98,8 +110,13 @@ sections:
       - "Aleksandr E. Kibrik, Sandro V. Kodzasov, Irina P. Olovyannikova, Dzhalil S. Samedov, Michael Daniel, Anna Khoroshkina, & Alexandre Arkhipov. (2007). Archi text corpus (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.8247597"
       - "Kibrik, Aleksandr et. al. LangueDOC: Center For Digital Language Archives (www.philol.msu.ru/~languedoc)"
 
-  - name: conference proceedings
+  - name: peer-reviewed conference proceedings
     papers:
+
+      - "Akavarapu, Mahesh, Michael Daniel, Gerhard Jäger. 2026. Phoneme- and Word-Level Metrics Using Self-Supervised Speech Representations for Forced Alignment Evaluation. Empirical Methods in Natural Language Processing 2026. (Secondary contribution)."
+      - "Akavarapu, Mahesh, Michael Daniel, Gerhard Jäger. 2026. Hard to Be Heard: Phoneme-Level ASR Analysis of Phonologically Complex, Low-Resource Endangered Languages. ACL 2026. (Main contribution to the data, secondary contribution to the concept, marginal contribution to writing)."
+      - "Shepel, Ekaterina, Alexandre Arkhipov, Michael Daniel, Alexander Shiryaev. 2024. Aryepiglottic trilling in Mehweb: acoustics and variability. International Seminar on Speech Production 2024 (secondary contribution)."
+      - "Arkhipov, Alexandre, Michael Daniel, Alexander Shiryaev, Ekaterina Shepel. 2023. Evaluating formant estimations and discrete cosine transform to differentiate between pharyngeal fricatives in Mehweb. ICPhS 2023. (Data collection, contribution to statistical model, secondary contribution to conceptualization)."
       - "Arkhipov, Alexandre, Michael Daniel, Oleg Belyaev, George Moroz, John H. Esling. 2019. A reinterpretation of lower-vocal-tract articulations in Caucasian languages, in: Proceedings of the 19th International Congress of Phonetic Sciences, Melbourne, Australia 2019. Australasian Speech Science and Technology Association Inc. P. 1550-1554."
       - "Andriyanets, Vasilisa, Michael Daniel, Brigitte Pakendorf. 2018. Discovering dialectal differences based on oral corpora. In: Kompjuternaja lingvistika i intellektualnyje tekhnologiji. Proceedings of International conference Dialogue. Issue 17 (24). Pp. 28-38."
       - "Daniel, Michael. 2015. Stem initial alternation in Russian third person pronouns: variation in grammar. In: Kompjuternaja lingvistika i intellektualnyje tekhnologiji. Proceedings of International conference Dialogue. Issue 14( vol. 1). Moscow: RGGU. Pp. 95-103."
